@@ -1,5 +1,5 @@
-#Proyecto de la Tarea 3
-##Universidad Ducens
+# Proyecto de la Tarea 3
+## Universidad Ducens
 
 
 * Utilizando el lenguaje de programación de tu elección definir 4 clases y que en al menos 2 de estas se maneje la herencia.
